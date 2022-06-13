@@ -1,4 +1,5 @@
 you will need Qt Designer to design the GUI initially and get your UI file
+https://build-system.fman.io/qt-designer-download
 
 run rprenamer exe.
 
